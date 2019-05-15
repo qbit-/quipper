@@ -1,5 +1,6 @@
 # quipper
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
+
 Unofficial fork of [The Quipper Language](https://www.mathstat.dal.ca/~selinger/quipper/). This repository exists for the purpose to provide a 
 reproducible installation and usage of the Quipper program for other projects. The version of Qipper is 0.8.
 
@@ -9,8 +10,9 @@ Official Quipper is not actively maintained at the time of this
 writing and may not work with recent third party libraries. It is
 recommended to first try the specified Haskell/library versions, and
 then experiment with up-to-date versions.
-The present Quipper code requires set-monad-0.1.0.0
-For original installation instructions see README.original.
+The present Quipper code requires set-monad-0.1.0.0.
+
+For original installation and usage instructions see README.original.
 
 ### Haskell installation
 
